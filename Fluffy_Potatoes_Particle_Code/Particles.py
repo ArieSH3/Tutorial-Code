@@ -17,7 +17,7 @@ screen = pygame.display.set_mode((500, 500),0,32)
 # typically changes over time
 # and typically disappears after a certain amount of time
 
-# [loc, velocity, timer]
+# [pos, velocity, timer/size]
 particles = []
 
 # Loop ------------------------------------------------------- #
